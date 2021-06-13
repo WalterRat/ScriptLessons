@@ -4,4 +4,4 @@ alert(Tf);
 
 let admin, name = 'Василий';
 admin = name;
-alert(admin);
+alert(admin)
